@@ -1,17 +1,20 @@
 # Live-Chat App
 Steps to clone:
 
-### Step 1: Clone the repository using the project's Git URL.
+#### Step 1: Clone the repository using the project's Git URL.
 ```sh
 git clone https://github.com/Td-Logger/Live_chat.git
-
-# Step 2: Navigate to the project directory.
+```
+#### Step 2: Navigate to the project directory.
+```sh
 cd Live_chat
-
-# Step 3: Install the necessary dependencies.
+```
+#### Step 3: Install the necessary dependencies.
+```sh
 npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```
+#### Step 4: Start the development server with auto-reloading and an instant preview.
+```sh
 npm run dev
 ```
 ## Technologies I used for this project
