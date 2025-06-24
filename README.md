@@ -1,8 +1,8 @@
 # Live-Chat App
 Steps to clone:
 
+### Step 1: Clone the repository using the project's Git URL.
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
 git clone https://github.com/Td-Logger/Live_chat.git
 
 # Step 2: Navigate to the project directory.
